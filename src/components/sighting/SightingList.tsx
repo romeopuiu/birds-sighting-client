@@ -25,7 +25,7 @@ export const SightingList = () => {
   }, []);
 
   if (isLoading) {
-    return <div>Loading sightings...</div>;
+    return <div>Loading sightings...</div>
   }
 
   if (error) {
