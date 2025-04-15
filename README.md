@@ -3,6 +3,7 @@ UI React birds-sighting-client:
 <h4>Tech Stack</h4>
 
 Frontend: 
+
 React.js, 
 
 HTML, 
