@@ -31,6 +31,7 @@ The user interface allows users to interact with the bird sighting system throug
 4.  Show All Sightings
 
     Users can input the name of a bird to search for.
+
     A table displays all sightings that match the inputted bird name.
 
 
