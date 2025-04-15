@@ -28,10 +28,6 @@ export const SightingList = () => {
     return <div>Loading sightings...</div>
   }
 
-  if (error) {
-    return <div>{error}</div>
-  }
-
   return (
     <div className="container mt-3">
       <h2>List of Sightings</h2>
