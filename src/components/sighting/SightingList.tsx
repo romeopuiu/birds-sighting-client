@@ -29,7 +29,7 @@ export const SightingList = () => {
   }
 
   if (error) {
-    return <div>{error}</div>;
+    return <div>{error}</div>
   }
 
   return (
