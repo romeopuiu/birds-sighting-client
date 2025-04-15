@@ -2,7 +2,9 @@ UI React birds-sighting-client:
 
 <h4>Tech Stack</h4>
 
-Frontend: 
+Frontend:
+
+Node.js and npm installed.
 
 React.js, 
 
