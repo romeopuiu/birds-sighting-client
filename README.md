@@ -2,9 +2,7 @@ UI React birds-sighting-client:
 
 Get the source code:
 
-Clone the repository:
-
-git clone https://github.com/romeopuiu/birds-sighting-client.git
+Clone the repository: git clone https://github.com/romeopuiu/birds-sighting-client.git
 
 1. Navigate to the project directory:
 
