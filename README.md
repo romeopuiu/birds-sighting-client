@@ -1,4 +1,8 @@
 UI React birds-sighting-client:
+Tech Stack
+Frontend: React.js, HTML, CSS, TypeScript, Bootstrap 5
+
+From here https://getbootstrap.com/docs/5.3/getting-started/download/
 
 Get the source code:
 
